@@ -1,14 +1,7 @@
 package abc;
 
-public class Test1 {
-
-	
-    public void test() {
-    	
-    }
-
+public class Test2 {
      public static void main(String[] args) {
 		
 	}
-
-}
+} 
